@@ -1,6 +1,6 @@
-IN PROGRESS:
+## IN PROGRESS:
 
-TO DO:
+## TO DO:
 
 // Step N-3: Create a cache database (Redis)
 // Step N-2: Create production database (PostgreSQL)
@@ -8,17 +8,21 @@ TO DO:
 // Step N: Deploy Android app to Google Play Store
 // Step N+1: Live Happily ever after
 
-Stack:
+## Stack:
 
 - Backend: JavaScript/NodeJS
 - Frontend: Kotlin/Android
 
-Pre-requisites:
-npm i youtube-transcript
-npm i axios
-npm i dotenv
+## Pre-requisites:
 
-DONE:
+`npm i youtube-transcript`
+
+`npm i axios`
+
+`npm i dotenv`
+
+## DONE:
+
 Step -1: Define the data model
 Step 0: Create a prompt that will assist any LLM to reliably respond
 with a specific JSON data model
@@ -29,7 +33,7 @@ Step 3: Send prompt + transcript to an LLM
 Step 4: Process the response from the LLM
 Step 5: Log the response as the desired data model
 
-Data model:
+## Data model:
 
 A recipe
 
