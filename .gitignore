@@ -1,0 +1,5 @@
+# Ignore Environment files - Gemini API Key
+.env 
+
+# Ignore Node Modules
+node_modules/
